@@ -1,0 +1,24 @@
+#!/usr/bin/python3 
+# -*- coding:utf-8 -*-  
+# Created by Jianguo on 2017/10/26
+
+__author__ = "Jianguo Jin (jinjianguosky@hotmail.com)"
+
+"""
+    Description:
+        
+"""
+
+
+class Person:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+
+    def say(self, message):
+        print('{} 说 {}'.format(self.name, message))
+
+
+if __name__ == '__main__':
+    p = Person('Xixi', 4)
+    p.say("hello")

@@ -1,0 +1,6 @@
+Read me
+
+SEC 08 函数高级
+def func(a, b, c)
+
+def func(a, b, *args)
