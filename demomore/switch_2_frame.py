@@ -30,10 +30,11 @@ sleep(5)
 
 # 使焦点定位到登录的iframe 上
 # 1。
-driver.switch_to_frame("x-URS-iframe")
+# driver.switch_to_frame("x-URS-iframe")
+driver.switch_to.frame("x-URS-iframe")
 # 2. 切换iframe
 iframe = driver.find_element_by_tag_name("iframe")
-driver.switch_to_frame(iframe)
+driver.switch_to.frame(iframe)
 
 # 点击用户名和密码
 driver.find_element_by_name("email").send_keys("skyaiols")
