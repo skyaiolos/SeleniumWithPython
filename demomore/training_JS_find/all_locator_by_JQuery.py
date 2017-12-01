@@ -27,14 +27,14 @@ driver.maximize_window()
 url = 'http://www.cnblogs.com/'
 myblogs = url + 'jinsky'
 driver.get(myblogs)
+
 # JS locator
 JS_n = 'document.getElementById("blog_nav_contact").click()'
+driver.execute_script(JS_n)
 
 # JQuery
-# jquery_n = '$("#blog_nav_contact").click()'
-
+# jquery_n = "$('#blog_nav_contact').click()"
 # driver.execute_script(jquery_n)
-driver.execute_script(JS_n)
 
 sleep(8)
 print(driver.title)
@@ -57,7 +57,7 @@ jquery_r = "$('#remember_me').click()"
 driver.execute_script(jquery_r)
 sleep(1)
 
-JS_l = 'document.querySelectorAll("#signin")[0].click()'
+# JS_l = 'document.querySelectorAll("#signin")[0].click()'
 jquery_l = "$('#signin').click()"
 driver.execute_script(jquery_l)
 sleep(3)
