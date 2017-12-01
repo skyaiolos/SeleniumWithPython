@@ -6,7 +6,7 @@ __author__ = "Sky Jin "
 
 """
     Description:
-        通过 JQuery 定位
+        通过 JQuery 定位 
 """
 from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary

@@ -9,7 +9,7 @@ __author__ = "Sky Jin "
         练习 1 ： 去掉页面动态窗： 这里举一个新世界教育官网首页的例子
         由于alert弹窗不美观，现在大多数网站都会使用自定义弹窗，
         使用Selenium自带的方法就驾驭不了了，此时就要搬出JS大法
-        driver.execute_script(js_monitor)
+        driver.execute_script(js_monitor
    
 """
 from selenium import webdriver

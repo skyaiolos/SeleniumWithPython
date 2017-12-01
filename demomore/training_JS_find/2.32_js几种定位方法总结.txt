@@ -1,4 +1,4 @@
-以下总结了5种js定位的方法 :
+以下总结了5种js定位的方法:
 document.getElementById() 	返回对拥有指定 id 的第一个对象的引用。
 
 document. getElementsByClassName() 	返回文档中所有指定类名的元素集合，作为 NodeList 对象。

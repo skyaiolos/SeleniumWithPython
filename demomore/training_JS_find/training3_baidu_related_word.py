@@ -45,3 +45,5 @@ if len(bd) > 1:
 
 else:
     print("Not fond")
+
+driver.quit()

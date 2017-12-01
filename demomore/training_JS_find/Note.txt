@@ -4,3 +4,4 @@ document.getElementById() 	        返回对拥有指定 id 的第一个对象�
 document. getElementsByClassName() 	返回文档中所有指定类名的元素集合，作为 NodeList 对象。
 document.getElementsByName() 	    返回带有指定名称的对象集合。
 document.getElementsByTagName() 	返回带有指定标签名的对象集合。
+document.querySelectorAll( "css selector")

@@ -12,6 +12,7 @@ __author__ = "Sky Jin "
         document. getElementsByClassName() 	返回文档中所有指定类名的 { 元素集合 }，作为 NodeList 对象。        
         document.getElementsByName() 	    返回带有指定名称的 { 对象集合 }。
         document.getElementsByTagName() 	返回带有指定标签名的 { 对象集合 }。
+        document.querySelectorAll( "css selector" )
    
 """
 from selenium import webdriver

@@ -1,4 +1,4 @@
-jquery行为
+jquery行为:
 
 1.  发送文本语法 : $(selector).var(输入文本的值)
 2.  清空文本语法 ：$(selector).var('') #  空字符串,两个单引号
