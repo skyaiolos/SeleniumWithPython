@@ -1,0 +1,43 @@
+以下总结了5种js定位的方法 :
+document.getElementById() 	返回对拥有指定 id 的第一个对象的引用。
+
+document. getElementsByClassName() 	返回文档中所有指定类名的元素集合，作为 NodeList 对象。
+document.getElementsByName() 	返回带有指定名称的对象集合。
+document.getElementsByTagName() 	返回带有指定标签名的对象集合。
+document.querySelectorAll( "css selector" )
+
+Note: 除了id是定位到的是单个element元素对象 ,
+       其它的都是elements返回的是list对象
+    1.  通过id获取
+        document.getElementById( "id")
+        注意 ： js的定位语法里面id定位获取的是单个元素对象  ， 可以直接用.click()方法
+
+    2.  通过name 获取
+        document. getElementsByName( "Name")
+        注意 ： 返回的是list
+            跟 class一样
+
+    3.  通过标签名选取元素
+        document.getElementsByTagName( "tag" )
+        注意 ： 返回的是list
+            跟 class一样
+
+    4.  通过CLASS类选取元素
+        document. getElementsByClassName( "class ")
+        兼容性 ： IE8及其以下版本的浏览器未实现getElementsByClassName 方法
+            1.  js里面class定位获取到是是一个list列表对象
+            2.  操作元素的话通过下标取对应的第几个值，如果只用一个那就取下标[0]
+            3.  定位到输入框可以直接用value"xxx" 方法输入内容
+                js2 = document.getElementByClassName("input-text")[0].value = u"建国"
+
+                js3 = document.getElementByClassName("input-text")[1].value = "11111111"
+
+            4.  ByName和ByTagName跟 class一样
+
+
+    5.  通过CSS选择器选取元素：
+        document.querySelectorAll( "css selector" )
+        兼容性 ： IE8及其以下版本的浏览器只支持CSS2标准的选择器语法
+            1.  css选择器定位到的也是一组元素,语法跟前面学到的css语法是一样的
+
+
