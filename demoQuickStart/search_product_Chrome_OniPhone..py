@@ -10,18 +10,21 @@ __author__ = "Jianguo Jin (jinjianguosky@hotmail.com)"
 """
 from selenium import webdriver
 from time import sleep
-url = 'https://www.tmall.com/'
 
-driver = webdriver.Chrome()
-driver.maximize_window()
-driver.get(url)
+option = webdriver.ChromeOptions()
+option.add_argument('disable-infobars')
+# 伪装成iphone 登录
+option.add_argument('--user-agent=iphone')
+driver = webdriver.Chrome(chrome_options=option)
 driver.implicitly_wait(20)
 
-search_field = driver.find_element_by_name('q')
-search_field.clear()
-search_field.send_keys('小米 Note')
+url = 'https://www.tmall.com/'
+driver.get(url)
 
-search_field.submit()
+login_btn = driver.find_elements_by_xpath('//*[@id="header"]/div[4]')
+
+login_btn.click()
+
 sleep(3)
 
 products = driver.find_elements_by_xpath('//div[@id="J_ItemList"]/div/div/p[2]/a')
@@ -32,4 +35,3 @@ for product in products:
     print(product.text)
 
 driver.quit()
-

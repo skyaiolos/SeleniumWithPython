@@ -10,10 +10,16 @@ __author__ = "Jianguo Jin (jinjianguosky@hotmail.com)"
 
 """
     Description:
-        测试警告框
+        测试警告框 ：            
+            alert、confirm、prompt 
+            switch_to.alert()     
+            text:       获取文本值
+            accept():   点击“确认”
+            dismiss():  点击“取消” 或者叉掉对话框
+            send_keys():输入文本内容
 """
 
-url = "file:///P:/Project_python/SeleniumwithPython/selenium-site/page-02.html"
+url = "file:///F:/SeleniumwithPython/selenium-site/page-02.html"
 
 
 class AlertTest(unittest.TestCase):

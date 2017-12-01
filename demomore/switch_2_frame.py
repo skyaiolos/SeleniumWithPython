@@ -26,7 +26,6 @@ driver = webdriver.Chrome(chrome_options=options)
 driver.maximize_window()
 driver.get(url)
 driver.implicitly_wait(20)
-sleep(5)
 
 # 使焦点定位到登录的iframe 上
 # 1。

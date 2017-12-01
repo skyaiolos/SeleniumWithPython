@@ -1,0 +1,7 @@
+  ----Homework---
+    login the http://mail.163.com
+    Test Case:
+        1. Input the name
+        2. Input the password ( read the txt file to get password)
+        3. Checked the "十天内免登录"
+        4. Click on Login.
