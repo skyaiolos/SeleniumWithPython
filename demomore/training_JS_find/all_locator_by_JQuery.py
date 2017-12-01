@@ -40,15 +40,15 @@ sleep(8)
 print(driver.title)
 
 # JS_u = 'document.getElementsByClassName("input-text")[0].value="skyaiolos0426"'
-jquery_clear = "$('#input1').var('')"
-jquery_u = "$('#input1').var('skyaiolos0426')"
+jquery_clear = "$('#input1').val('')"
+jquery_u = "$('#input1').val('skyaiolos0426')"
 
 driver.execute_script(jquery_clear)
 driver.execute_script(jquery_u)
 sleep(1)
 
 # JS_p = 'document.getElementsByClassName("input-text")[1].value="0426"'
-jquery_p = "$('#input2').var('1234')"
+jquery_p = "$('#input2').val('1234')"
 driver.execute_script(jquery_p)
 sleep(1)
 
@@ -62,5 +62,5 @@ jquery_l = "$('#signin').click()"
 driver.execute_script(jquery_l)
 sleep(3)
 
-driver.switch_to_alert().dismiss()
-# driver.quit()
+# driver.switch_to_alert().dismiss()
+driver.quit()
