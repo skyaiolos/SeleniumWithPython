@@ -13,7 +13,6 @@ from selenium import webdriver
 from selenium.webdriver.firefox.firefox_binary import FirefoxBinary
 from time import sleep
 
-url = "http://www.sublimetext.com/3"
 #  制定火狐浏览器的二进制.exe 文件路径
 ff_bin = FirefoxBinary(r'C:\Program Files (x86)\Mozilla Firefox\firefox.exe')
 
