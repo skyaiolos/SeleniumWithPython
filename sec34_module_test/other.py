@@ -8,8 +8,7 @@ __author__ = "Jianguo Jin (jinjianguosky@hotmail.com)"
     Description:
         
 """
-import demomore.module_test.script_test as st
-from demomore.module_test import mailTest
+import sec34_module_test.script_test as st
 
 if __name__ == '__main__':
     print("自己的功能模块测试")

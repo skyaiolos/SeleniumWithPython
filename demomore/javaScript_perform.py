@@ -7,6 +7,10 @@ __author__ = "Jianguo Jin (jinjianguosky@hotmail.com)"
 """
     Description:
         执行JS
+        JS ： 
+            document.write('hello')
+            window.location.href = 'http://codr.cn'
+            window.scrollTo(100,1500)  # 滚动条移动的位置
 """
 
 from selenium import webdriver
@@ -30,21 +34,33 @@ js = 'window.scrollTo(100, 1500)'
 driver.execute_script(js)
 driver.get_screenshot_as_file(os.path.abspath('Captures/{}_test02.png'.format(version)))
 
-#  下面的方法执行多次，但是有问题。
-# def run_js():
-#     driver.execute_script(js)
-#
-#
-# # for i in range(6):
-# #
-# for i in range(1, 6):
-#     run_js()
-#     time.sleep(1)
+js_hello = 'alert("Hello , I am sky")'
 
-# i = 1
-# while i <= 6:
-#     driver.execute_script(js)
-#     i += 1
-#     time.sleep(1)
-time.sleep(5)
+
+#  下面的方法执行多次,Fixed
+def run_js():
+    driver.execute_script(js_hello)
+
+
+# For loop
+for i in range(1, 6):
+    if i <= 2:
+        run_js()
+        time.sleep(1)
+        driver.switch_to.alert.dismiss()
+        time.sleep(1)
+
+# while loop
+i = 1
+driver.execute_script('alert("Now is the while loop")')
+time.sleep(1)
+driver.switch_to.alert.dismiss()
+while i <= 3:
+    driver.execute_script(js_hello)
+    time.sleep(1)
+    driver.switch_to.alert.dismiss()
+    time.sleep(1)
+    i += 1
+
+time.sleep(2)
 driver.quit()

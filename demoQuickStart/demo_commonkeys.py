@@ -28,3 +28,5 @@ current_page = driver.current_window_handle
 
 # 获取多窗口句柄
 all_h = driver.window_handles
+
+
