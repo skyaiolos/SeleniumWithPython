@@ -26,15 +26,17 @@ class TmallTest(unittest.TestCase):
         self.driver.implicitly_wait(5)
 
     def test_wait(self):
-        login_line = WebDriverWait(self.driver, 30).until(EC.visibility_of_element_located((By.LINK_TEXT, '请登录')))
-        self.assertEqual('sn-login', login_line.get_attribute('class'))
+        login_link = WebDriverWait(self.driver, 30).until(EC.visibility_of_element_located((By.LINK_TEXT, '请登录')))
+        self.assertEqual('sn-login', login_link.get_attribute('class'))
 
 
         # login_line.click()
         # self.driver.implicitly_wait(20)
 
     def test_element_to_be_enalble(self):
-        self.driver.find_element_by_link_text('请登录').click()
+        # self.driver.find_element_by_link_text('请登录').click()
+        login = WebDriverWait(self.driver, 30).until(EC.visibility_of_element_located((By.LINK_TEXT, '请登录')))
+        login.click()
 
         #  注意，有关用户登录，一定注意要先 switch_to.frame(iframe)
         iframe = self.driver.find_element_by_tag_name("iframe")
@@ -47,15 +49,13 @@ class TmallTest(unittest.TestCase):
 
         sleep(6)
 
-        # js_monitor = 'document.getElementById("J_AgreementDialog").style.display = "none"'
-        # self.driver.execute_script(js_monitor)
-
         #  难点， 无法定位到同意协议窗体。
-        # self.driver.switch_to_alert().dismiss()
-        iframe = self.driver.find_element_by_tag_name("iframe")
-        WebDriverWait(self.driver, 30).until(EC.frame_to_be_available_and_switch_to_it(iframe))
 
-        agree_btn = self.driver.find_element_by_xpath('//*[@id="J_AgreementBtn"]')
+        # iframe = self.driver.find_element_by_tag_name("iframe")
+        # WebDriverWait(self.driver, 30).until(EC.frame_to_be_available_and_switch_to_it(iframe))
+
+        agree_btn = self.driver.find_element_by_class_name('btn-large')
+        sleep(2)
         # agree_btn = WebDriverWait(self.driver, 20).until(
         #     EC.visibility_of_element_located((By.XPATH, '//*[@id="J_AgreementBtn"]')))
 

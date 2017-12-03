@@ -13,3 +13,7 @@ import sec34_module_test.script_test as st
 if __name__ == '__main__':
     print("自己的功能模块测试")
     st.test_login()
+    print("------")
+    st.test_operation()
+    print("------")
+    st.test_logout()

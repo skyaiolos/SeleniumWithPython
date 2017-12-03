@@ -19,7 +19,7 @@ ff_bin = FirefoxBinary(r'C:\Program Files (x86)\Mozilla Firefox\firefox.exe')
 driver = webdriver.Firefox(firefox_binary=ff_bin)
 
 driver.implicitly_wait(20)
-driver.set_window_size(1400, 1000)
+driver.set_window_size(1920, 1080)
 
 
 def init_driver():

@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfd9f9b8-6274-4551-8a45-cd63a7d84b7a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sec34_module_test/Note.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sec34_module_test/identifyingCode_progress.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demomore/module_test/geckodriver.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/SeleniumwithPython.iml" afterPath="$PROJECT_DIR$/.idea/SeleniumwithPython.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="bfd9f9b8-6274-4551-8a45-cd63a7d84b7a" name="Default" comment="K">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoQuickStart/pwd.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demoQuickStart/qq_mail_login.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demomore/qq_mail_login.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sec29_webElement_mouse_action/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sec29_webElement_mouse_action/elementstest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wait_demo/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wait_demo/explicitWaitTest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wait_demo/explicit_waits.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demoQuickStart/demo_commonkeys.py" afterPath="$PROJECT_DIR$/demoQuickStart/demo_commonkeys.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demomore/geckodriver.log" afterPath="$PROJECT_DIR$/demomore/geckodriver.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demomore/javaScript_perform.py" afterPath="$PROJECT_DIR$/demomore/javaScript_perform.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demomore/training_JS_find/geckodriver.log" afterPath="$PROJECT_DIR$/demomore/training_JS_find/geckodriver.log" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demomore/data_driver/__init__.py" afterPath="$PROJECT_DIR$/sec34_module_test/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demomore/data_driver/test_user.py" afterPath="$PROJECT_DIR$/sec35_data_driver/test_user.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demomore/module_test/__init__.py" afterPath="$PROJECT_DIR$/sec35_data_driver/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demomore/module_test/mailTest.py" afterPath="$PROJECT_DIR$/sec34_module_test/mailTest.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demomore/module_test/other.py" afterPath="$PROJECT_DIR$/sec34_module_test/other.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demomore/module_test/script_test.py" afterPath="$PROJECT_DIR$/sec34_module_test/script_test.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/demomore/module_test/unitmailTest.py" afterPath="$PROJECT_DIR$/sec34_module_test/unitmailTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demomore/training_JS_find/2.32_js几种定位方法总结.txt" afterPath="$PROJECT_DIR$/demomore/training_JS_find/2.32_js几种定位方法总结.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sec31_synctesting/explicitWaitTest.py" afterPath="$PROJECT_DIR$/sec31_synctesting/explicitWaitTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sec34_module_test/other.py" afterPath="$PROJECT_DIR$/sec34_module_test/other.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sec34_module_test/script_test.py" afterPath="$PROJECT_DIR$/sec34_module_test/script_test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,8 +29,10 @@
     <SUITE FILE_PATH="coverage/SeleniumwithPython$filedownload.coverage" NAME="filedownload Coverage Results" MODIFIED="1510480080800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$Unittests_in_page_model_test_py.coverage" NAME="Unittests in page_model_test.py Coverage Results" MODIFIED="1511710382952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjectDesignPettern" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$javaScript_perform.coverage" NAME="javaScript_perform Coverage Results" MODIFIED="1510493505752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$qq_mail_login.coverage" NAME="qq_mail_login Coverage Results" MODIFIED="1512205208309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$other.coverage" NAME="other Coverage Results" MODIFIED="1510497565674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore/module_test" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$search_product_good_.coverage" NAME="search_product_good. Coverage Results" MODIFIED="1511839010574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demoQuickStart" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$explicit_waits.coverage" NAME="explicit_waits Coverage Results" MODIFIED="1512229837008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wait_demo" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$cookies_operator.coverage" NAME="cookies_operator Coverage Results" MODIFIED="1510488716247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$student.coverage" NAME="student Coverage Results" MODIFIED="1511704017219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjectDesignPettern" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$fileupload.coverage" NAME="fileupload Coverage Results" MODIFIED="1510478669382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
@@ -42,106 +40,96 @@
     <SUITE FILE_PATH="coverage/SeleniumwithPython$cookies_operator_firefox.coverage" NAME="cookies_operator_firefox Coverage Results" MODIFIED="1510488808142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$switch.coverage" NAME="switch Coverage Results" MODIFIED="1510474071782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$login_test_vcoding.coverage" NAME="login_test_vcoding Coverage Results" MODIFIED="1511707920562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjectDesignPettern" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$script_test__1_.coverage" NAME="script_test (1) Coverage Results" MODIFIED="1512205912976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sec34_module_test" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$script_test.coverage" NAME="script_test Coverage Results" MODIFIED="1510496531122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore/module_test" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$qq_mail_login__1_.coverage" NAME="qq_mail_login (1) Coverage Results" MODIFIED="1512205481987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demoQuickStart" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$filedownload_byFirefox.coverage" NAME="filedownload_byFirefox Coverage Results" MODIFIED="1510482878170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$find_ele_8kinds.coverage" NAME="find_ele_8kinds Coverage Results" MODIFIED="1511847455104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demoQuickStart" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$Unittests_in_explicitWaitTest_py.coverage" NAME="Unittests in explicitWaitTest.py Coverage Results" MODIFIED="1512231790714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wait_demo" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$func3.coverage" NAME="func3 Coverage Results" MODIFIED="1510416114217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sec08" />
     <SUITE FILE_PATH="coverage/SeleniumWithPython$all_locator_by_JS_method.coverage" NAME="all_locator_by_JS_method Coverage Results" MODIFIED="1512140984059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore/training_JS_find" />
     <SUITE FILE_PATH="coverage/SeleniumWithPython$script_test.coverage" NAME="script_test Coverage Results" MODIFIED="1512141084743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore/module_test" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$Unittests_for_explicitWaitTest_TmallTest_test_wait.coverage" NAME="Unittests for explicitWaitTest.TmallTest.test_wait Coverage Results" MODIFIED="1512265454456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wait_demo" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$screenshot.coverage" NAME="screenshot Coverage Results" MODIFIED="1510489773284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$elementstest.coverage" NAME="elementstest Coverage Results" MODIFIED="1512226801361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sec29_webElement_mouse_action" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble.coverage" NAME="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble Coverage Results" MODIFIED="1512296922323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wait_demo" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$search_product.coverage" NAME="search_product Coverage Results" MODIFIED="1511838794710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demoQuickStart" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$Unittests_for_explicitWaitTest_TmallTest.coverage" NAME="Unittests for explicitWaitTest.TmallTest Coverage Results" MODIFIED="1512231729721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sec31_synctesting" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$Unittests_for_alert_test_AlertTest_test_alert.coverage" NAME="Unittests for alert_test.AlertTest.test_alert Coverage Results" MODIFIED="1510475739714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demomore" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$cellphone.coverage" NAME="cellphone Coverage Results" MODIFIED="1511691793525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjectDesignPettern" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$Unittests_for_page_model_test_LoginTest.coverage" NAME="Unittests for page_model_test.LoginTest Coverage Results" MODIFIED="1511710736136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjectDesignPettern" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$demo_commonkeys.coverage" NAME="demo_commonkeys Coverage Results" MODIFIED="1511849561603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demoQuickStart" />
+    <SUITE FILE_PATH="coverage/SeleniumWithPython$other.coverage" NAME="other Coverage Results" MODIFIED="1512205950173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sec34_module_test" />
     <SUITE FILE_PATH="coverage/SeleniumwithPython$Unittests_for_page_model_test_LoginTest_test_login.coverage" NAME="Unittests for page_model_test.LoginTest.test_login Coverage Results" MODIFIED="1511710576055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PageObjectDesignPettern" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="test_user.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec35_data_driver/test_user.py">
+      <file leaf-file-name="explicit_waits.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wait_demo/explicit_waits.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#212#242#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_locator_by_JS_method.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/all_locator_by_JS_method.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Note.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec34_module_test/Note.txt">
+      <file leaf-file-name="training1_dis_alertdlg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/training1_dis_alertdlg.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mailTest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec34_module_test/mailTest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="621">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="geckodriver.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demomore/geckodriver.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="javaScript_perform.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demomore/javaScript_perform.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo_commonkeys.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demoQuickStart/demo_commonkeys.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec34_module_test/script_test.py">
+        <entry file="file://$PROJECT_DIR$/wait_demo/geckodriver.log">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
-              <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all_locator_by_JQuery.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/all_locator_by_JQuery.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="explicitWaitTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sec31_synctesting/explicitWaitTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding>
-                <element signature="e#176#206#0" expanded="true" />
+                <element signature="e#183#198#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="find_ele_8kinds.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demoQuickStart/find_ele_8kinds.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-626">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="filedownload_byFirefox.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demomore/filedownload_byFirefox.py">
+      <file leaf-file-name="pwd.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/pwd.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -150,11 +138,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="identifyingCode_progress.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sec34_module_test/identifyingCode_progress.py">
+      <file leaf-file-name="explicitWaitTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wait_demo/explicitWaitTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-851">
+              <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+              <folding>
+                <element signature="e#183#198#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alert_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demomore/alert_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="switch_2_frame.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demomore/switch_2_frame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -213,6 +223,17 @@
         <option value="$PROJECT_DIR$/demomore/sec34_module_test/identifyingCode_progress.py" />
         <option value="$PROJECT_DIR$/sec34_module_test/identifyingCode_progress.py" />
         <option value="$PROJECT_DIR$/sec34_module_test/Note.txt" />
+        <option value="$PROJECT_DIR$/demomore/training_JS_find/2.32_js几种定位方法总结.txt" />
+        <option value="$PROJECT_DIR$/demomore/qq_mail_login.py" />
+        <option value="$PROJECT_DIR$/demoQuickStart/pwd.txt" />
+        <option value="$PROJECT_DIR$/demoQuickStart/qq_mail_login.py" />
+        <option value="$PROJECT_DIR$/sec34_module_test/other.py" />
+        <option value="$PROJECT_DIR$/sec34_module_test/script_test.py" />
+        <option value="$PROJECT_DIR$/sec29_webElement_mouse_action/elementstest.py" />
+        <option value="$PROJECT_DIR$/wait_demo/geckodriver.log" />
+        <option value="$PROJECT_DIR$/wait_demo/explicit_waits.py" />
+        <option value="$PROJECT_DIR$/wait_demo/explicitWaitTest.py" />
+        <option value="$PROJECT_DIR$/sec31_synctesting/explicitWaitTest.py" />
       </list>
     </option>
   </component>
@@ -242,6 +263,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SeleniumwithPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumwithPython" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -252,29 +285,23 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="SeleniumWithPython" type="cbb8eebc:String" user="SeleniumWithPython" />
-              <item name="Captures" type="cbb8eebc:String" user="Captures" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="SeleniumWithPython" type="cbb8eebc:String" user="SeleniumWithPython" />
               <item name="demomore" type="cbb8eebc:String" user="demomore" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="SeleniumWithPython" type="cbb8eebc:String" user="SeleniumWithPython" />
-              <item name="demoQuickStart" type="cbb8eebc:String" user="demoQuickStart" />
+              <item name="demomore" type="cbb8eebc:String" user="demomore" />
+              <item name="training_JS_find" type="cbb8eebc:String" user="training_JS_find" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="SeleniumwithPython" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumwithPython" type="462c0819:PsiDirectoryNode" />
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SeleniumWithPython" type="cbb8eebc:String" user="SeleniumWithPython" />
+              <item name="sec31_synctesting" type="cbb8eebc:String" user="sec31_synctesting" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="SeleniumWithPython" type="cbb8eebc:String" user="SeleniumWithPython" />
+              <item name="wait_demo" type="cbb8eebc:String" user="wait_demo" />
             </path>
           </expand>
           <select />
@@ -289,11 +316,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="P:\Project_python\SeleniumwithPython\demomore" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="P:\GitHub_Repository\SeleniumWithPython" />
+      <recent name="P:\Project_python\SeleniumwithPython\demomore" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\GitHub_Repository\SeleniumWithPython\wait_demo" />
+      <recent name="P:\GitHub_Repository\SeleniumWithPython\demoQuickStart" />
       <recent name="P:\Project_python\SeleniumwithPython\demomore" />
     </key>
   </component>
@@ -309,111 +338,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.javaScript_perform">
-    <configuration name="all_locator_by_JS_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble">
+    <configuration name="Unittests for explicitWaitTest.TmallTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demomore/training_JS_find" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sec31_synctesting" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SeleniumwithPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demomore/training_JS_find/all_locator_by_JS_method.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;explicitWaitTest.TmallTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="demo_commonkeys" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demoQuickStart" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wait_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SeleniumwithPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoQuickStart/demo_commonkeys.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;explicitWaitTest.TmallTest.test_element_to_be_enalble&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="find_ele_8kinds" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for explicitWaitTest.TmallTest.test_wait" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demoQuickStart" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wait_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SeleniumwithPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demoQuickStart/find_ele_8kinds.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;explicitWaitTest.TmallTest.test_wait&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="javaScript_perform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in explicitWaitTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demomore" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wait_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SeleniumwithPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demomore/javaScript_perform.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/wait_demo/explicitWaitTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="script_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="explicit_waits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demomore/module_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wait_demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="SeleniumwithPython" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demomore/module_test/script_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wait_demo/explicit_waits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.find_ele_8kinds" />
-      <item index="1" class="java.lang.String" itemvalue="Python.demo_commonkeys" />
-      <item index="2" class="java.lang.String" itemvalue="Python.all_locator_by_JS_method" />
-      <item index="3" class="java.lang.String" itemvalue="Python.script_test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.javaScript_perform" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for explicitWaitTest.TmallTest" />
+      <item index="1" class="java.lang.String" itemvalue="Python.explicit_waits" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in explicitWaitTest.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for explicitWaitTest.TmallTest.test_wait" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.javaScript_perform" />
-        <item index="1" class="java.lang.String" itemvalue="Python.script_test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.all_locator_by_JS_method" />
-        <item index="3" class="java.lang.String" itemvalue="Python.demo_commonkeys" />
-        <item index="4" class="java.lang.String" itemvalue="Python.find_ele_8kinds" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests for explicitWaitTest.TmallTest.test_wait" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in explicitWaitTest.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for explicitWaitTest.TmallTest" />
+        <item index="4" class="java.lang.String" itemvalue="Python.explicit_waits" />
       </list>
     </recent_temporary>
   </component>
@@ -431,33 +448,59 @@
       <option name="presentableId" value="Default" />
       <updated>1508506452631</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1512178342366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512178342368</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_alert_test_AlertTest_test_alert - 2017.11.12 at 16h 35m 56s.xml">
-      <configuration name="Unittests for alert_test.AlertTest.test_alert" configurationId="tests" />
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble - 2017.12.03 at 01h 11m 07s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_page_model_test_LoginTest - 2017.11.26 at 23h 39m 07s.xml">
-      <configuration name="Unittests for page_model_test.LoginTest" configurationId="tests" />
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble - 2017.12.03 at 01h 12m 37s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_page_model_test_LoginTest_test_login - 2017.11.26 at 23h 36m 54s.xml">
-      <configuration name="Unittests for page_model_test.LoginTest.test_login" configurationId="tests" />
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble - 2017.12.03 at 01h 14m 57s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_page_model_test_py - 2017.11.26 at 23h 33m 41s.xml">
-      <configuration name="Unittests in page_model_test.py" configurationId="tests" />
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble - 2017.12.03 at 09h 45m 13s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble - 2017.12.03 at 18h 16m 18s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble - 2017.12.03 at 18h 21m 05s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble - 2017.12.03 at 18h 21m 35s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble - 2017.12.03 at 18h 27m 46s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_element_to_be_enalble - 2017.12.03 at 18h 29m 02s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_element_to_be_enalble" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_explicitWaitTest_TmallTest_test_wait - 2017.12.03 at 09h 44m 35s.xml">
+      <configuration name="Unittests for explicitWaitTest.TmallTest.test_wait" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.283867" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22290641" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23529412" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14761376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -479,78 +522,15 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demomore/Captures/2.061111_test02.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demomore/Captures/-1108.94_test02.png" />
-    <entry file="file://$PROJECT_DIR$/demomore/Captures/2.061111_test03.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjectDesignPettern/cellphone.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjectDesignPettern/面向对象.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjectDesignPettern/note.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjectDesignPettern/student.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-site/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1742">
-          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/selenium-site/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjectDesignPettern/login_test_vcoding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PageObjectDesignPettern/path_object.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PageObjectDesignPettern/login_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -597,13 +577,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoQuickStart/search_product_good..py" />
-    <entry file="file://$PROJECT_DIR$/demomore/alert_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demomore/fileupload.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -625,35 +598,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/all_locator_by_JQuery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/all_locator_by_JS_method.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-723">
-          <caret line="9" column="53" lean-forward="false" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec31_synctesting/explicitWaitTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demomore/sec34_module_test/geckodriver.log" />
-    <entry file="file://$PROJECT_DIR$/sec34_module_test/other.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sec34_module_test/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -703,13 +648,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demomore/switch_2_frame.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demomore/switch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -728,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -736,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -752,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -776,7 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -784,25 +715,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sec34_module_test/script_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="e#176#206#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoQuickStart/find_ele_8kinds.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-626">
+        <state relative-caret-position="207">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,22 +729,164 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demoQuickStart/demo_commonkeys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demomore/javaScript_perform.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/2.32_js几种定位方法总结.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demomore/qq_mail_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demomore/pwd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoQuickStart/pwd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demoQuickStart/qq_mail_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec34_module_test/script_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec34_module_test/other.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec29_webElement_mouse_action/elementstest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="e#177#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/all_locator_by_JQuery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wait_demo/geckodriver.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wait_demo/explicit_waits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#212#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demomore/switch_2_frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/all_locator_by_JS_method.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/training1_dis_alertdlg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demomore/alert_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wait_demo/explicitWaitTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-851">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding>
+            <element signature="e#183#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sec31_synctesting/explicitWaitTest.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <element signature="e#183#198#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demomore/training_JS_find/pwd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
