@@ -1,0 +1,17 @@
+错误与异常处理
+    try:
+        #
+    except ValueError:
+        # 问题处理语句
+    except TypeError:
+        #
+    except:
+        #
+    except:
+        # 没有异常
+
+
+
+
+
+
