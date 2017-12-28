@@ -9,7 +9,7 @@ __author__ = "Jianguo Jin (jinjianguosky@hotmail.com)"
         测试 POM
 """
 import unittest
-from PageObjectDesignPettern.login_page import Login_Page
+from sec38_PageObjectDesignPettern.login_page import Login_Page
 
 
 class LoginTest(unittest.TestCase):

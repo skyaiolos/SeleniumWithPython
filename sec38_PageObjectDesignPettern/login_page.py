@@ -8,7 +8,7 @@ __author__ = "Jianguo Jin (jinjianguosky@hotmail.com)"
     Description:
         
 """
-from PageObjectDesignPettern.path_object import Page
+from sec38_PageObjectDesignPettern.path_object import Page
 
 from selenium.webdriver.common.by import By
 

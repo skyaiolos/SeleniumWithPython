@@ -2,8 +2,8 @@
 # -*- coding:utf-8 -*-  
 # Created on 2017/11/26
 
-from PageObjectDesignPettern.cellphone import Person
-from PageObjectDesignPettern.cellphone import CellPhone
+from sec38_PageObjectDesignPettern.cellphone import Person
+from sec38_PageObjectDesignPettern.cellphone import CellPhone
 from datetime import datetime
 
 __author__ = "Jianguo Jin (jinjianguosky@hotmail.com)"
